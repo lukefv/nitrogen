@@ -1,3 +1,5 @@
+// lukesecrets
+
 // Prompt user for configuration input
 const userCodesToGenerate = prompt('Enter how many codes to generate (recommended 200 or less):', '5');
 const userDelay = prompt('Enter delay in milliseconds per code:', '1000');
